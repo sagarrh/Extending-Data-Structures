@@ -18,7 +18,7 @@ public:
 	int getData(){ return data; }
 	void setData(int n){ data = n; }
 
-	virtual ~Node();
+	virtual ~Node(); //destructor
 	
 
 };
